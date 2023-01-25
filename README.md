@@ -4,6 +4,10 @@ CF card module in the RC2014 standard, tuned to the Zilog bus time waveforms for
 
 ![populated board](board.jpg)
 
+### Schematic
+
+[Schematic - Version 2.0](Schematic.pdf)
+
 ## Bill of Materials
 
 Component type     | Reference  | Description                                   | Quantity |
