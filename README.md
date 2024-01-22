@@ -7,7 +7,7 @@ CF card module in the RCBus standard, tuned to the Zilog bus time waveforms for 
 
 ## Hardware Documentation
 Documentation for the Previous Versions
-[Version 2.0](https://github.com/tpycio/CFModule/cf2.0)
+[Version 2.0](https://github.com/tpycio/CFModule/tree/main/CF2.0)
 
 ### Schematic
 [Schematic - Version 2.1](Schematic.pdf)
