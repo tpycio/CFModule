@@ -4,12 +4,13 @@ CF card module in the RCBus standard, tuned to the Zilog bus time waveforms for 
 
 ![populated board](board.jpg)
 
-
 ## Hardware Documentation
+
 Documentation for the Previous Versions
 [Version 2.0](https://github.com/tpycio/CFModule/tree/main/CF2.0)
 
 ### Schematic
+
 [Schematic - Version 2.1](Schematic.pdf)
 
 ## Bill of Materials
@@ -39,7 +40,7 @@ Gerber files prepared for production at JLCPCB
 * Version 2.1:
   
   * Update form factor from RC2014 compatible to RCBus
-  * Correction of module addressing so that no mirrored activity appears on port 0x90
+  * Limiting the module's response to addresses in the range 0x10-0x1F
 
 * Version 2.0
   
